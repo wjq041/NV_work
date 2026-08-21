@@ -27,3 +27,8 @@ Leodanis Pozo Ramos – [@lpozo78](https://twitter.com/lpozo78) – lpozor78@gma
 ## License
 
 The set of icons used in this application are part of the [TurkinOS](https://github.com/llamaret/turkinos-icon) icon theme, which is distributed under the [GPL v3.0 license](https://github.com/llamaret/turkinos-icon/blob/master/LICENSE). See `ui/resources/LICENSE.txt` for details.
+
+
+# This is local change add for git test
+# C:\Work\NV_TESTCODE is for locl repository
+# C:\Work\nv_workdic is for work document
